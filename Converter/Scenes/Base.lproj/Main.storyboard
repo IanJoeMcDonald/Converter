@@ -69,7 +69,7 @@
         <!--Convert-->
         <scene sceneID="E5p-CY-uZO">
             <objects>
-                <viewController storyboardIdentifier="ConvertViewController" id="NNr-dj-GTq" customClass="ConvertCurrenciesViewController" customModule="Converter" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ConvertCurrenciesViewController" id="NNr-dj-GTq" customClass="ConvertCurrenciesViewController" customModule="Converter" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="6iA-sb-LmY">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

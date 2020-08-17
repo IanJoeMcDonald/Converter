@@ -10,7 +10,6 @@ import XCTest
 @testable import Converter
 
 class ListCurrenciesViewControllerTests: XCTestCase {
-
     // MARK: System Under Test
     var sut: ListCurrenciesViewController!
     var window: UIWindow!

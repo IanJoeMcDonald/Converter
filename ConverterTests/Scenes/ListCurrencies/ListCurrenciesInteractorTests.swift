@@ -70,7 +70,7 @@ class ListCurrenciesInteractorTests: XCTestCase {
         // When
         sut.fetchCurrencies()
         
-        // THEN
+        // Then
         XCTAssert(spy.fetchCurrenciesCalled)
     }
 }
